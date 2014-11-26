@@ -14,3 +14,6 @@
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
 #endif
+
+#define kDomain @"10.0.1.51"
+#define applicationHeight [UIScreen mainScreen].applicationFrame.size.height
