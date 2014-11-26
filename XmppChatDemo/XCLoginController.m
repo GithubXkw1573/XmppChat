@@ -27,6 +27,8 @@
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
+    //更改源码测试
+    
 }
 
 
